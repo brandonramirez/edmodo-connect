@@ -1,0 +1,14 @@
+{
+  "name": "edmodo-connect",
+  "version": "0.0.1",
+  "author": {
+    "name": "Brandon Ramirez",
+    "email": "brandon.s.ramirez@gmail.com",
+    "url": "http://www.brandonsramirez.com/"
+  },
+  "main": "edmodo.js",
+  "dependencies": {
+    "extend": "^1.3.0",
+    "unirest": "0.4.0"
+  }
+}
