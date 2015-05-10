@@ -1,6 +1,7 @@
 {
   "name": "edmodo-connect",
   "version": "0.0.1",
+  "repository": "https://github.com/brandonramirez/edmodo-connect.git",
   "author": {
     "name": "Brandon Ramirez",
     "email": "brandon.s.ramirez@gmail.com",
